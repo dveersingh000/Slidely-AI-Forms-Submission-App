@@ -1,0 +1,17 @@
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.AssemblyReference.cache
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.Form1.resources
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.frmCreateSubmission.resources
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.frmViewSubmissions.resources
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.Resources.resources
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.GenerateResource.cache
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.vbproj.CoreCompileInputs.cache
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\SlidelyFormApp.exe.config
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\SlidelyFormApp.exe
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\SlidelyFormApp.pdb
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\SlidelyFormApp.xml
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\Newtonsoft.Json.dll
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\bin\Debug\Newtonsoft.Json.xml
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyF.E63FE044.Up2Date
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.exe
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.xml
+E:\New folder\Slidely project\SlidelyFormApp\SlidelyFormApp\obj\Debug\SlidelyFormApp.pdb

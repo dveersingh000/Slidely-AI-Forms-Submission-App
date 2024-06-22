@@ -44,52 +44,52 @@ This project is a Windows Desktop App for form submissions with an Express backe
 - Open the project in Visual Studio.
 - Build and run the solution.
 
-# API Endpoints
-Ping
-- URL: /ping
-- Method: GET
-- Response: true
-Submit
-- URL: /submit
-- Method: POST
-- Body Parameters:
-     - name
-     - email
-     - phone
-     - github_link
-     - stopwatch_time
-Read
-- URL: /read
-- Method: GET
-- Query Parameters: index
-Delete
-- URL: /delete
-- Method: DELETE
-- Query Parameters: index
-Edit
-- URL: /edit
-- Method: PUT
-- Query Parameters: index
-- Body Parameters:
-      - name
-      - email
-      - phone
-      - github_link
-      stopwatch_time
-Search
-- URL: /search
-- Method: GET
-- Query Parameters: email
+#### API Endpoints
+- Ping
+   - URL: /ping
+   - Method: GET
+   - Response: true
+- Submit
+   - URL: /submit
+   - Method: POST
+   - Body Parameters:
+        - name
+        - email
+        - phone
+        - github_link
+        - stopwatch_time
+- Read
+   - URL: /read
+   - Method: GET
+   - Query Parameters: index
+- Delete
+   - URL: /delete
+   - Method: DELETE
+   - Query Parameters: index
+- Edit
+   - URL: /edit
+   - Method: PUT
+   - Query Parameters: index
+   - Body Parameters:
+         - name
+         - email
+         - phone
+         - github_link
+         stopwatch_time
+- Search
+   - URL: /search
+   - Method: GET
+   - Query Parameters: email
 
-# Usage
+### Usage
 - Create New Submission
    1. Click on Create New Submission.
    2. Fill in the form details.
    3. Use the stopwatch to track time.
    4. Submit the form using the Submit button or Ctrl + S shortcut.
-View Submissions
+- View Submissions
    1. Click on View Submissions.
    2. Navigate through submissions using the Previous and Next buttons or Ctrl + P and Ctrl + N shortcuts.
       
-## License
+### License
 - This project is licensed under the MIT License - see the LICENSE file for details.

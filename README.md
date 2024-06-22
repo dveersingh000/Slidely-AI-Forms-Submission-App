@@ -38,7 +38,7 @@ This project is a Windows Desktop App for form submissions with an Express backe
 
 5.  Start the server:
    node dist/index.js
-## The server will run on http://localhost:3000.
+#### The server will run on http://localhost:3000.
 
 ### Frontend Setup
 - Open the project in Visual Studio.

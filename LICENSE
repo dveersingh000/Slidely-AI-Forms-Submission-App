@@ -1,0 +1,15 @@
+
+To complete the steps for making your repository public and sharing it:
+
+1. **Make the Repository Public**:
+   - Go to your repository on GitHub.
+   - Click on "Settings" in the top menu.
+   - Scroll down to the "Danger Zone" section.
+   - Click on "Change repository visibility".
+   - Select "Public" and confirm.
+
+2. **Share the Repository**:
+   - Copy the URL of your repository (e.g., `https://github.com/yourusername/SlidelyFormApp`).
+   - Share this URL with others so they can access your project.
+
+This README file will provide all the necessary instructions for others to set up and run your project.
